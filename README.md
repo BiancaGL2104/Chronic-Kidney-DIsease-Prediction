@@ -26,9 +26,9 @@ Developed in Google Colab, this notebook includes all steps from data preprocess
 
 ## 📄 Files Included
 
-- 📓 `notebooks/CKD_Prediction.ipynb`: Main Colab notebook
-- 📝 `report/ML_report.pdf`: Full project report
-- 📊 `presentation/CKD_Prediction.pptx`: Final presentation slides
+- 📓 `CKD_Prediction.ipynb`: Main Colab notebook
+- 📝 `ML_report.pdf`: Full project report
+- 📊 `CKD_Prediction.pptx`: Final presentation slides
 
 ---
 
